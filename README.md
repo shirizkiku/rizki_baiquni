@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Shirizkiku!
 
 I'm a data journalist who uses Python to uncover patterns, insights, and stories from data. My work focuses on web scraping, data analysis, and sentiment analysis—especially in social, political, and media contexts.
 
