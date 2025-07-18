@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Shirizkiku!
+# 👋 Hi there, I'm Baiquni!
 
 I'm a data journalist who uses Python to uncover patterns, insights, and stories from data. My work focuses on web scraping, data analysis, and sentiment analysis—especially in social, political, and media contexts.
 
@@ -41,7 +41,7 @@ I believe data is a form of narrative, and Python is the modern pen to write it.
 ---
 
 ### 📫 Get in Touch
-- 📷 Instagram: [@yourusername](https://instagram.com/rizki_baiquni)
+- 📷 Instagram: [@rizki_baiquni](https://instagram.com/rizki_baiquni)
 - ✉️ Email: rizki.baiquni@gmail.com
 
 ---
